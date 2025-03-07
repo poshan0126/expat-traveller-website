@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.fba7ba3e.js",
-    "index.html": "/index.html",
-    "main.fba7ba3e.js.map": "/static/js/main.fba7ba3e.js.map"
+    "main.js": "https://poshan0126.github.io/expat-traveller-website/static/js/main.fba7ba3e.js",
+    "index.html": "https://poshan0126.github.io/expat-traveller-website/index.html",
+    "main.fba7ba3e.js.map": "https://poshan0126.github.io/expat-traveller-website/static/js/main.fba7ba3e.js.map"
   },
   "entrypoints": [
     "static/js/main.fba7ba3e.js"
